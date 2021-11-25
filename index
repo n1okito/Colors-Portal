@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>RAL 6001 - Emeraldgreen</title>
+<link rel="stylesheet" href ="main.css" />
+</head>
+<body>
+<h1>RAL 6001 - Emeraldgreen</h1>
+<div id="mainContainer">
+  <div id="contentContainer">
+    <div class="itemContainer">
+      <div class="item">
+        <p>
+           A szín a smaragd drágakőről kapta a nevét
+        </p>
+        <center>
+        <img src="emeraldjpg.jpg" width="260" height="200"  alt="">
+        <center>
+      </div>
+      <div class="item">
+        <p>
+          A szín megjelenése főleg az 1800-as évek művészetén látszik. A képen Monet festménye
+        </p>
+        <center>
+        <img src="monet.jpg" width="200" height="200" alt="">
+        <center>
+      </div>
+      <div class="item">
+        <p>Történelmi szempontból is fontos. Például az Íreknél. A képen az Emerald sziget látszik</p>
+        <center>
+        <img src="isle.jpg" width="200" height="200" alt="">
+        <center>
+      </div>
+    </div>
+    <div class="itemContainer">
+      <div class="item">
+        <p>Fontosabb információk a színről  </p>
+        <center>
+        <a href="https://www.canva.com/colors/color-meanings/emerald-green/"">Információk a színről</a>
+        <center>
+      </div>
+      <div class="item">
+        <p>
+          A szín több nyelven
+        </p>
+        <center>
+        <img src="szín.jpg" width="200" height="200" alt="">
+        <center>
+      </div>
+      <div class="item">
+        <p>Történelmileg is fontos a szín.St. Patrcik's Day az Íreknél.</p>
+        <center>
+        <img src="írek.jpg" width="200" height="200" alt="">
+        <center>
+      </div>
+    </div>
+    <div class="itemContainer">
+      <div class="item">
+        <p>Színskála a többi szín szerint</p>
+        <center>
+        <img src="séma.png" width="250" height="250" alt="">
+        <center>
+      </div>
+      <div class="item">
+        <p>A szín kikeverése</p>
+        <center>
+        <img src="komponens.png" width="450" height="250" alt="">
+        <center>
+      </div>
+      <div class="item">
+        <p>Szimbolikus , a szerencse színe </p>
+        <center>
+        <img src="luck.jpg" width="300" height="230" alt="">
+        <center>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
